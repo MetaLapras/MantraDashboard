@@ -1,0 +1,792 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11b06094-70be-45e8-a549-be884e1277e9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1335591108">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="employee_db_functions" value="4" />
+          <entry key="employee_registration" value="5" />
+          <entry key="php" value="108" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PHP" value="108" />
+          <entry key="PLAIN_TEXT" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="php" value="9369" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PHP" value="9325" />
+          <entry key="SQL" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.rename.constructor" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.php.new.test" />
+    </session>
+    <session id="-1818726801">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="20" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.22" value="2" />
+          <entry key="project.open.time.25" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.30" value="2" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="2" />
+          <entry key="http" value="3" />
+          <entry key="image_upload" value="2" />
+          <entry key="ini" value="1" />
+          <entry key="json" value="3" />
+          <entry key="php" value="119" />
+          <entry key="sql" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="2" />
+          <entry key="HTTP Request" value="2" />
+          <entry key="Ini" value="1" />
+          <entry key="JSON" value="3" />
+          <entry key="PHP" value="121" />
+          <entry key="SQL" value="2" />
+          <entry key="Scratch" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="29" />
+          <entry key="image_upload" value="109" />
+          <entry key="ini" value="4" />
+          <entry key="json" value="72" />
+          <entry key="php" value="5119" />
+          <entry key="sql" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="30" />
+          <entry key="Ini" value="4" />
+          <entry key="JSON" value="72" />
+          <entry key="PHP" value="5175" />
+          <entry key="SQL" value="54" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.composer.command.options" />
+      <usages-collector id="statistics.php.composer.actions" />
+      <usages-collector id="statistics.php.new.test" />
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.php.rename.constructor" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/workerRegistration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="42" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>erro</find>
+      <find>err</find>
+      <find>$worker_details</find>
+      <find>$project_details</find>
+      <find>update</find>
+      <find>:</find>
+      <find>,</find>
+      <find>max_input_vars</find>
+      <find>$statistic</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>=</replace>
+      <replace>;</replace>
+      <replace>$this-&gt;statistic</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/employee_reg.php" />
+        <option value="$PROJECT_DIR$/models/EmployeeDetails.php" />
+        <option value="$PROJECT_DIR$/models/ProjectLoginModel.php" />
+        <option value="$PROJECT_DIR$/models/ProjectDetails.php" />
+        <option value="$PROJECT_DIR$/worker_master_function.php" />
+        <option value="$PROJECT_DIR$/config.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/models/ContactDetails.php" />
+        <option value="$PROJECT_DIR$/models/BankDetails.php" />
+        <option value="$PROJECT_DIR$/models/AddressDetails.php" />
+        <option value="$PROJECT_DIR$/WorkerRegistration.php" />
+        <option value="$PROJECT_DIR$/image_upload.php" />
+        <option value="$PROJECT_DIR$/image_upload" />
+        <option value="$PROJECT_DIR$/img.php" />
+        <option value="$PROJECT_DIR$/insert_worker.php" />
+        <option value="$PROJECT_DIR$/models/Model.php" />
+        <option value="$PROJECT_DIR$/models/WorkerDetails.php" />
+        <option value="$PROJECT_DIR$/insert_bank_details.php" />
+        <option value="$PROJECT_DIR$/insert_contact_details.php" />
+        <option value="$PROJECT_DIR$/getworkerDetails.php" />
+        <option value="$PROJECT_DIR$/UpdateImageDetails.php" />
+        <option value="$PROJECT_DIR$/UpdateContactDetails.php" />
+        <option value="$PROJECT_DIR$/UpdateBankDetails.php" />
+        <option value="$PROJECT_DIR$/UpdateWorkerDetails.php" />
+        <option value="$PROJECT_DIR$/DeleteWorkerDetails.php" />
+        <option value="$PROJECT_DIR$/models/Attendance.php" />
+        <option value="$PROJECT_DIR$/GetAttendanceDetails.php" />
+        <option value="$PROJECT_DIR$/InsertAttendaceDetails.php" />
+        <option value="$PROJECT_DIR$/workerRegistration.php" />
+        <option value="$PROJECT_DIR$/home.html" />
+        <option value="$PROJECT_DIR$/ash.json" />
+        <option value="$USER_HOME$/Desktop/qwr.json" />
+        <option value="$USER_HOME$/Downloads/mantra_db (1).sql" />
+        <option value="$PROJECT_DIR$/../../php/php.ini" />
+        <option value="$PROJECT_DIR$/Image_upload.php" />
+        <option value="$PROJECT_DIR$/UploadWorkerDetails.php" />
+        <option value="$PROJECT_DIR$/project_login_details.php" />
+        <option value="$PROJECT_DIR$/db_function.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpDebugGeneral" xdebug_show_addresses="true" hide_empty_superglobals="false" listening_started="true" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mantra" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mantra" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/xampp/htdocs/mantra/register.php" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="php.override.implement.member.chooser.php.doc" value="COPY_ALWAYS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\mantra" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/mantra/UploadWorkerDetails.php" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="[{&quot;account_number&quot;:&quot;ktsggn&quot;,&quot;activation&quot;:&quot;null&quot;,&quot;adharcard_id&quot;:&quot;jrsjr&quot;,&quot;bankId&quot;:&quot;null&quot;,&quot;bank_name&quot;:&quot;&quot;,&quot;city&quot;:&quot;NC&quot;,&quot;contact1&quot;:&quot;6276&quot;,&quot;contact2&quot;:&quot;6564565&quot;,&quot;createdAt&quot;:&quot;null&quot;,&quot;currentAddressId&quot;:&quot;null&quot;,&quot;current_address1&quot;:&quot;null&quot;,&quot;dob&quot;:&quot;2/8/2018&quot;,&quot;email&quot;:&quot;hdatj&quot;,&quot;error&quot;:false,&quot;fingerprint1&quot;:&quot;&quot;,&quot;fingerprint2&quot;:&quot;&quot;,&quot;gender&quot;:&quot;Select Gender&quot;,&quot;holder_name&quot;:&quot;dafs&quot;,&quot;id&quot;:&quot;1&quot;,&quot;ifsc_code&quot;:&quot;&quot;,&quot;imageUrl&quot;:&quot;/data/user/0/com.pasistence.mantrafingerprint/cache/cropped2041465707.jpg&quot;,&quot;name&quot;:&quot;nf&quot;,&quot;permanentAddressId&quot;:&quot;null&quot;,&quot;permanent_address1&quot;:&quot;null&quot;,&quot;pincode&quot;:&quot;&quot;,&quot;projectId&quot;:&quot;null&quot;,&quot;salary&quot;:&quot;null&quot;,&quot;success&quot;:0,&quot;updatedAt&quot;:&quot;null&quot;,&quot;workerId&quot;:&quot;null&quot;},{&quot;account_number&quot;:&quot;lhxd&quot;,&quot;activation&quot;:&quot;null&quot;,&quot;adharcard_id&quot;:&quot;nfzvm&quot;,&quot;bankId&quot;:&quot;null&quot;,&quot;bank_name&quot;:&quot;v , &quot;,&quot;city&quot;:&quot;mv .&quot;,&quot;contact1&quot;:&quot;5646&quot;,&quot;contact2&quot;:&quot;695&quot;,&quot;createdAt&quot;:&quot;null&quot;,&quot;currentAddressId&quot;:&quot;null&quot;,&quot;current_address1&quot;:&quot;null&quot;,&quot;dob&quot;:&quot;22/8/2018&quot;,&quot;email&quot;:&quot;xbkgs&quot;,&quot;error&quot;:false,&quot;fingerprint1&quot;:&quot;&quot;,&quot;fingerprint2&quot;:&quot;&quot;,&quot;gender&quot;:&quot;Select Gender&quot;,&quot;holder_name&quot;:&quot;urjte&quot;,&quot;id&quot;:&quot;2&quot;,&quot;ifsc_code&quot;:&quot;itsgm&quot;,&quot;imageUrl&quot;:&quot;/data/user/0/com.pasistence.mantrafingerprint/cache/cropped142004673.jpg&quot;,&quot;name&quot;:&quot;fjfm&quot;,&quot;permanentAddressId&quot;:&quot;null&quot;,&quot;permanent_address1&quot;:&quot;null&quot;,&quot;pincode&quot;:&quot;&quot;,&quot;projectId&quot;:&quot;null&quot;,&quot;salary&quot;:&quot;null&quot;,&quot;success&quot;:0,&quot;updatedAt&quot;:&quot;null&quot;,&quot;workerId&quot;:&quot;null&quot;}]" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="employee_id" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="json:[{&quot;account_number&quot;:&quot;ktsggn&quot;,&quot;activation&quot;:&quot;null&quot;,&quot;adharcard_id&quot;:&quot;jrsjr&quot;,&quot;bankId&quot;:&quot;null&quot;,&quot;bank_name&quot;:&quot;&quot;,&quot;city&quot;:&quot;NC&quot;,&quot;contact1&quot;:&quot;6276&quot;,&quot;contact2&quot;:&quot;6564565&quot;,&quot;createdAt&quot;:&quot;null&quot;,&quot;currentAddressId&quot;:&quot;null&quot;,&quot;current_address1&quot;:&quot;null&quot;,&quot;dob&quot;:&quot;2/8/2018&quot;,&quot;email&quot;:&quot;hdatj&quot;,&quot;error&quot;:false,&quot;fingerprint1&quot;:&quot;&quot;,&quot;fingerprint2&quot;:&quot;&quot;,&quot;gender&quot;:&quot;Select Gender&quot;,&quot;holder_name&quot;:&quot;dafs&quot;,&quot;id&quot;:&quot;1&quot;,&quot;ifsc_code&quot;:&quot;&quot;,&quot;imageUrl&quot;:&quot;/data/user/0/com.pasistence.mantrafingerprint/cache/cropped2041465707.jpg&quot;,&quot;name&quot;:&quot;nf&quot;,&quot;permanentAddressId&quot;:&quot;null&quot;,&quot;permanent_address1&quot;:&quot;null&quot;,&quot;pincode&quot;:&quot;&quot;,&quot;projectId&quot;:&quot;null&quot;,&quot;salary&quot;:&quot;null&quot;,&quot;success&quot;:0,&quot;updatedAt&quot;:&quot;null&quot;,&quot;workerId&quot;:&quot;null&quot;},{&quot;account_number&quot;:&quot;lhxd&quot;,&quot;activation&quot;:&quot;null&quot;,&quot;adharcard_id&quot;:&quot;nfzvm&quot;,&quot;bankId&quot;:&quot;null&quot;,&quot;bank_name&quot;:&quot;v , &quot;,&quot;city&quot;:&quot;mv .&quot;,&quot;contact1&quot;:&quot;5646&quot;,&quot;contact2&quot;:&quot;695&quot;,&quot;createdAt&quot;:&quot;null&quot;,&quot;currentAddressId&quot;:&quot;null&quot;,&quot;current_address1&quot;:&quot;null&quot;,&quot;dob&quot;:&quot;22/8/2018&quot;,&quot;email&quot;:&quot;xbkgs&quot;,&quot;error&quot;:false,&quot;fingerprint1&quot;:&quot;&quot;,&quot;fingerprint2&quot;:&quot;&quot;,&quot;gender&quot;:&quot;Select Gender&quot;,&quot;holder_name&quot;:&quot;urjte&quot;,&quot;id&quot;:&quot;2&quot;,&quot;ifsc_code&quot;:&quot;itsgm&quot;,&quot;imageUrl&quot;:&quot;/data/user/0/com.pasistence.mantrafingerprint/cache/cropped142004673.jpg&quot;,&quot;name&quot;:&quot;fjfm&quot;,&quot;permanentAddressId&quot;:&quot;null&quot;,&quot;permanent_address1&quot;:&quot;null&quot;,&quot;pincode&quot;:&quot;&quot;,&quot;projectId&quot;:&quot;null&quot;,&quot;salary&quot;:&quot;null&quot;,&quot;success&quot;:0,&quot;updatedAt&quot;:&quot;null&quot;,&quot;workerId&quot;:&quot;null&quot;}]↵ employee_id:1" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost" />
+          <option name="urlPath" value="/mantra/UploadWorkerDetails.php" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="[{&quot;account_number&quot;:&quot;ktsggn&quot;,&quot;activation&quot;:&quot;null&quot;,&quot;adharcard_id&quot;:&quot;jrsjr&quot;,&quot;bankId&quot;:&quot;null&quot;,&quot;bank_name&quot;:&quot;&quot;,&quot;city&quot;:&quot;NC&quot;,&quot;contact1&quot;:&quot;6276&quot;,&quot;contact2&quot;:&quot;6564565&quot;,&quot;createdAt&quot;:&quot;null&quot;,&quot;currentAddressId&quot;:&quot;null&quot;,&quot;current_address1&quot;:&quot;null&quot;,&quot;dob&quot;:&quot;2/8/2018&quot;,&quot;email&quot;:&quot;hdatj&quot;,&quot;error&quot;:false,&quot;fingerprint1&quot;:&quot;&quot;,&quot;fingerprint2&quot;:&quot;&quot;,&quot;gender&quot;:&quot;Select Gender&quot;,&quot;holder_name&quot;:&quot;dafs&quot;,&quot;id&quot;:&quot;1&quot;,&quot;ifsc_code&quot;:&quot;&quot;,&quot;imageUrl&quot;:&quot;/data/user/0/com.pasistence.mantrafingerprint/cache/cropped2041465707.jpg&quot;,&quot;name&quot;:&quot;nf&quot;,&quot;permanentAddressId&quot;:&quot;null&quot;,&quot;permanent_address1&quot;:&quot;null&quot;,&quot;pincode&quot;:&quot;&quot;,&quot;projectId&quot;:&quot;null&quot;,&quot;salary&quot;:&quot;null&quot;,&quot;success&quot;:0,&quot;updatedAt&quot;:&quot;null&quot;,&quot;workerId&quot;:&quot;null&quot;},{&quot;account_number&quot;:&quot;lhxd&quot;,&quot;activation&quot;:&quot;null&quot;,&quot;adharcard_id&quot;:&quot;nfzvm&quot;,&quot;bankId&quot;:&quot;null&quot;,&quot;bank_name&quot;:&quot;v , &quot;,&quot;city&quot;:&quot;mv .&quot;,&quot;contact1&quot;:&quot;5646&quot;,&quot;contact2&quot;:&quot;695&quot;,&quot;createdAt&quot;:&quot;null&quot;,&quot;currentAddressId&quot;:&quot;null&quot;,&quot;current_address1&quot;:&quot;null&quot;,&quot;dob&quot;:&quot;22/8/2018&quot;,&quot;email&quot;:&quot;xbkgs&quot;,&quot;error&quot;:false,&quot;fingerprint1&quot;:&quot;&quot;,&quot;fingerprint2&quot;:&quot;&quot;,&quot;gender&quot;:&quot;Select Gender&quot;,&quot;holder_name&quot;:&quot;urjte&quot;,&quot;id&quot;:&quot;2&quot;,&quot;ifsc_code&quot;:&quot;itsgm&quot;,&quot;imageUrl&quot;:&quot;/data/user/0/com.pasistence.mantrafingerprint/cache/cropped142004673.jpg&quot;,&quot;name&quot;:&quot;fjfm&quot;,&quot;permanentAddressId&quot;:&quot;null&quot;,&quot;permanent_address1&quot;:&quot;null&quot;,&quot;pincode&quot;:&quot;&quot;,&quot;projectId&quot;:&quot;null&quot;,&quot;salary&quot;:&quot;null&quot;,&quot;success&quot;:0,&quot;updatedAt&quot;:&quot;null&quot;,&quot;workerId&quot;:&quot;null&quot;}]" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="employee_id" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.UploadWorkerDetails.php">
+    <configuration name="home.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/mantra/home.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="UploadWorkerDetails.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/UploadWorkerDetails.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="PHP Script.UploadWorkerDetails.php" />
+      <item itemvalue="JavaScript Debug.home.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.UploadWorkerDetails.php" />
+        <item itemvalue="JavaScript Debug.home.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11b06094-70be-45e8-a549-be884e1277e9" name="Default Changelist" comment="" />
+      <created>1534494908220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534494908220</updated>
+      <workItem from="1534494909785" duration="27210000" />
+      <workItem from="1534582414344" duration="1618000" />
+      <workItem from="1534650661136" duration="4798000" />
+      <workItem from="1534743922287" duration="1061000" />
+      <workItem from="1534747871398" duration="1705000" />
+      <workItem from="1534749898937" duration="43797000" />
+      <workItem from="1534939055397" duration="1182000" />
+      <workItem from="1534942064421" duration="16000" />
+      <workItem from="1534942736451" duration="26097000" />
+      <workItem from="1535118080359" duration="186000" />
+      <workItem from="1535118347040" duration="1384000" />
+      <workItem from="1535259330660" duration="3815000" />
+      <workItem from="1535263569629" duration="4573000" />
+      <workItem from="1535269221784" duration="2878000" />
+      <workItem from="1535350371283" duration="8431000" />
+      <workItem from="1535442786055" duration="17014000" />
+      <workItem from="1535528034247" duration="7475000" />
+      <workItem from="1535610062689" duration="10682000" />
+      <workItem from="1535637584561" duration="1401000" />
+      <workItem from="1535650450011" duration="5738000" />
+      <workItem from="1535694690887" duration="10101000" />
+      <workItem from="1535771054284" duration="3744000" />
+      <workItem from="1535794843582" duration="6000" />
+      <workItem from="1535812251536" duration="1384000" />
+      <workItem from="1535952269144" duration="4596000" />
+      <workItem from="1535966366614" duration="1225000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="200453000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.4410541" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.11461318" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="REST Client" order="13" weight="0.4022663" />
+      <window_info anchor="right" id="Database" order="0" weight="0.481276" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/db_function.php</url>
+          <line>528</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/db_function.php</url>
+          <line>133</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/db_function.php</url>
+          <line>142</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/employee_db_functions" />
+    <entry file="file://$PROJECT_DIR$/employee_reg.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/employee_registration">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="824" column="9" selection-start-line="824" selection-start-column="9" selection-end-line="824" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register_worker.php" />
+    <entry file="file://$PROJECT_DIR$/../myapi/db_function.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img.php" />
+    <entry file="file://$PROJECT_DIR$/image_upload" />
+    <entry file="file://G:/WEBAPIPHP/RestrosoftTabsystem/CancelKOT_Printing.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/WEBAPIPHP/PHP-REST-API-Tutorial/StudentApp/include/Constants.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Model.php" />
+    <entry file="file://$PROJECT_DIR$/insert_worker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="75" column="40" lean-forward="true" selection-start-line="72" selection-start-column="12" selection-end-line="75" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpdateImageDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/WEBAPIPHP/RestrosoftTabsystem/Update_SalesItem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="60" column="39" lean-forward="true" selection-start-line="60" selection-start-column="39" selection-end-line="60" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpdateContactDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpdateBankDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/WEBAPIPHP/RestrosoftTabsystem/getSalesitem_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-34">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DeleteWorkerDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getworkerDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/insert_contact_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UpdateWorkerDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/WorkerDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="20" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/ProjectDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="51" column="20" selection-start-line="51" selection-start-column="20" selection-end-line="51" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InsertAttendanceDetails.php" />
+    <entry file="file://$PROJECT_DIR$/models/InsertAttendanceDetails.php" />
+    <entry file="file://$PROJECT_DIR$/insert_bank_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" selection-start-line="8" selection-end-line="85" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/Attendance.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/InsertAttendaceDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="48" column="5" lean-forward="true" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/WEBAPIPHP/RestrosoftTabsystem/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/rest-api.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ash.json" />
+    <entry file="file://$USER_HOME$/Downloads/mantra_db (1).sql" />
+    <entry file="file://$USER_HOME$/Downloads/mantra_db (2).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" selection-start-line="23" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/WEBAPIPHP/RestrosoftTabsystem/db_connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../php/php.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="394" column="27" selection-start-line="394" selection-start-column="27" selection-end-line="394" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/qwr.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="39" column="22" lean-forward="true" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image_upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <element signature="n#isWorkerExisted#0;n#DB_Functions#0;n#!!top" />
+            <element signature="n#insertAddress#0;n#DB_Functions#0;n#!!top" />
+            <element signature="e#3150#3712#0#PHP" />
+            <element signature="e#3661#3712#0#PHP" />
+            <element signature="n#getBankById#0;n#DB_Functions#0;n#!!top" />
+            <element signature="n#getAllattendance#0;n#DB_Functions#0;n#!!top" />
+            <element signature="n#InsertAttendanceDetails#0;n#DB_Functions#0;n#!!top" />
+            <element signature="n#insertWorkerDetails#0;n#DB_Functions#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project_login_details.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="109" column="37" lean-forward="true" selection-start-line="109" selection-start-column="37" selection-end-line="109" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db_connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GetAttendanceDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/WEBAPIPHP/RestrosoftTabsystem/Insertinto_SalesItem.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UploadWorkerDetails.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="57" column="34" selection-start-line="57" selection-start-column="34" selection-end-line="57" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/workerRegistration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
