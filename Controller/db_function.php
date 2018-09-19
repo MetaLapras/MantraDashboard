@@ -810,7 +810,30 @@ class DB_Functions
             return false;
 
         }
+	}
+	
+
+	public function getAllProjectDetails(){
+		$stmt=$this->conn->prepare("SELECT * FROM project_master ");
+		
+        if($stmt->execute())
+        {
+            $result = $stmt->get_result();
+
+            while ($data = $result->fetch_assoc())
+            {
+                $this->statistic[] = $data;
+            }
+            $stmt->close();
+            return $this->statistic ;
+
+        }
+        else
+        {
+            return NULL;
+        }
     }
+
 
 }
 
